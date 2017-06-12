@@ -1,0 +1,230 @@
+.calculatorContainer{
+  display: flex;
+  flex-direction: column;
+  height: 700px;
+  width: 460px;
+  background-color: green;
+  border-radius: 20px 20px 20px 20px;
+}
+.first-row{
+  display:flex;
+  flex-direction: row;
+  margin-left:20px;
+}
+.clearbutton{
+  display: flex;
+  border:1px solid white;
+  width:100px;
+  height:100px;
+  justify-content: center;
+  align-items: center;
+}
+.calWindow{
+  border: 1px solid white;
+  width:300px;
+  height:100px;
+}
+.second-row{
+  display:flex;
+  flex-direction: row;
+  margin-left:20px;
+  margin-top: -15px;
+}
+.sevenBtn{
+  display: flex;
+  border:1px solid white;
+  width:100px;
+  height:100px;
+  justify-content: center;
+  align-items: center;
+  font-size:24px;
+  color: white;
+  font-weight: bold;
+}
+.eightBtn{
+  display: flex;
+  border:1px solid white;
+  width:100px;
+  height:100px;
+  justify-content: center;
+  align-items: center;
+  font-size:24px;
+  color: white;
+  font-weight: bold;
+}
+.nineBtn{
+  display: flex;
+  border:1px solid white;
+  width:100px;
+  height:100px;
+  justify-content: center;
+  align-items: center;
+  font-size:24px;
+  color: white;
+  font-weight: bold;
+}
+.dividerBtn{
+  display: flex;
+  border:1px solid white;
+  width:100px;
+  height:100px;
+  justify-content: center;
+  align-items: center;
+  background-color: lightgrey;
+  font-size:24px;
+  color: white;
+  font-weight: bold;
+}
+.third-row{
+  display:flex;
+  flex-direction: row;
+  margin-left:20px;
+  margin-top: -15px;
+}
+.fourBtn{
+  display: flex;
+  border:1px solid white;
+  width:100px;
+  height:100px;
+  justify-content: center;
+  align-items: center;
+  font-size:24px;
+  color: white;
+  font-weight: bold;
+}
+.fiveBtn{
+  display: flex;
+  border:1px solid white;
+  width:100px;
+  height:100px;
+  justify-content: center;
+  align-items: center;
+  font-size:24px;
+  color: white;
+  font-weight: bold;
+}
+.sixBtn{
+  display: flex;
+  border:1px solid white;
+  width:100px;
+  height:100px;
+  justify-content: center;
+  align-items: center;
+  font-size:24px;
+  color: white;
+  font-weight: bold;
+}
+.multiplierBtn{
+  display: flex;
+  border:1px solid white;
+  width:100px;
+  height:100px;
+  justify-content: center;
+  align-items: center;
+  background-color: lightgrey;
+  font-size:24px;
+  color: white;
+  font-weight: bold;
+}
+.fourth-row{
+  display:flex;
+  flex-direction: row;
+  margin-left:20px;
+  margin-top:-15px;
+}
+.oneBtn{
+  display: flex;
+  border:1px solid white;
+  width:100px;
+  height:100px;
+  justify-content: center;
+  align-items: center;
+  font-size:24px;
+  color: white;
+  font-weight: bold;
+}
+.twoBtn{
+  display: flex;
+  border:1px solid white;
+  width:100px;
+  height:100px;
+  justify-content: center;
+  align-items: center;
+  font-size:24px;
+  color: white;
+  font-weight: bold;
+}
+.threeBtn{
+  display: flex;
+  border:1px solid white;
+  width:100px;
+  height:100px;
+  justify-content: center;
+  align-items: center;
+  font-size:24px;
+  color: white;
+  font-weight: bold;
+}
+.subtractorBtn{
+  display: flex;
+  border:1px solid white;
+  width:100px;
+  height:100px;
+  justify-content: center;
+  align-items: center;
+  background-color: lightgrey;
+  font-size:24px;
+  color: white;
+  font-weight: bold;
+}
+.fifth-row{
+  display:flex;
+  flex-direction: row;
+  margin-left:20px;
+  margin-top:-15px;
+}
+.zeroBtn{
+  display: flex;
+  border:1px solid white;
+  width:100px;
+  height:100px;
+  justify-content: center;
+  align-items: center;
+  font-size:24px;
+  color: white;
+  font-weight: bold;
+}
+.decimalBtn{
+  display: flex;
+  border:1px solid white;
+  width:100px;
+  height:100px;
+  justify-content: center;
+  align-items: center;
+  font-size:24px;
+  color: white;
+  font-weight: bold;
+}
+.equalBtn{
+  display: flex;
+  border:1px solid white;
+  width:100px;
+  height:100px;
+  justify-content: center;
+  align-items: center;
+  font-size:24px;
+  color: white;
+  font-weight: bold;
+}
+.adderBtn{
+  display: flex;
+  border:1px solid white;
+  width:100px;
+  height:100px;
+  justify-content: center;
+  align-items: center;
+  background-color: lightgrey;
+  font-size:24px;
+  color: white;
+  font-weight: bold;
+}
