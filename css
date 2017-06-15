@@ -1,8 +1,8 @@
 .calculatorContainer{
   display: flex;
   flex-direction: column;
-  height: 50vw;
-  width: 39vw;
+  height: 700px;
+  width: 460px;
   background-color: green;
   border-radius: 20px 20px 20px 20px;
 }
@@ -20,12 +20,9 @@
   align-items: center;
 }
 .calWindow{
-  border: 2px solid white;
-  width: 300px;
+  border: 1px solid white;
+  width:300px;
   height:100px;
-  margin-top: 4%;
-  font-size: 2em;
-  color: white;
 }
 .second-row{
   display:flex;
